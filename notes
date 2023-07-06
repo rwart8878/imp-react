@@ -1,3 +1,9 @@
 important thing to learing on react 
 redux
 jwt
+
+redux{
+    redux-thunk
+    redux-tool
+    
+}
